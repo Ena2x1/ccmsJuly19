@@ -1,16 +1,16 @@
 # ccmsJuly19
 Project CCMS untuk SCM July 2019
-Project Name                      :  Cyber Cafe Management System  Project (CCMS)
+Project Name:  Cyber Cafe Management System  Project (CCMS)
 
-Language Used                   :  PHP
+Language Used:  PHP
 
-Database                              :  MySQL
+Database:  MySQL
 
-User Interface Design       :  HTML, AJAX,JQUERY,JAVASCRIPT
+User Interface Design:  HTML, AJAX,JQUERY,JAVASCRIPT
 
-Web Browser                       :  Mozilla, Google Chrome, IE8, OPERA
+Web Browser:  Mozilla, Google Chrome, IE8, OPERA
 
-Software                               :  XAMPP / Wamp / Mamp/ Lamp (anyone)
+Software:  XAMPP / Wamp / Mamp/ Lamp (anyone)
 
 In Cyber Café Management System we use PHP and Mysql database. This is the project which keep records of daily users of cyber cafe. Cyber Café Management System has one module i.e admin.
 
@@ -30,17 +30,11 @@ Note:  In this project MD5 encryption method used.
 How to run the Cyber Cafe Management System (CCMS) Project
 
 1. Download the zip file
-
 2. Extract the file and copy ccms folder
-
 3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
-
 4. Open PHPMyAdmin (http://localhost/phpmyadmin)
-
 5. Create a database with name ccmsdb
-
 6. Import ccmsdb.sql file(given inside the zip package in SQL file folder)
-
 7.Run the script http://localhost/ccms(frontend)
 
 Credential for admin panel :
